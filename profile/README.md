@@ -24,6 +24,7 @@ We build custom software for businesses and create tools for people working with
 | **[Agent Connect](https://github.com/Dpro-at/agent-connect)** | A standalone TypeScript library for messaging, webhook, and channel integrations. |
 | **[GenVR World SDK](https://github.com/Dpro-at/genvr-world-sdk)** | Tools for 3D world authoring, local editing, and agent interaction through MCP. Available as a preview. |
 | **[MCP Tool Tester Pro](https://github.com/Dpro-at/mcp-tester)** | A web interface for exploring, testing, and debugging tool endpoints. |
+| **[Web Respect](https://github.com/9mtm/Web-Respect)** | Dpro’s toolkit for website consent, accessibility controls, and privacy integrations. |
 
 [Explore all repositories](https://github.com/orgs/Dpro-at/repositories) · [See our product and client portfolio](https://dpro.at/en/portfolio/)
 
@@ -51,6 +52,22 @@ Follow the [Store contribution guide](https://github.com/Dpro-at/girru-store/blo
 We help businesses develop **AI agents and automation, MCP integrations, web and mobile applications, SaaS products, and connected devices**. Our work covers planning, design, implementation, deployment, and ongoing maintenance.
 
 [Tell us about your project](https://dpro.at/en/contact/) · [office@dpro.at](mailto:office@dpro.at)
+
+## Related projects
+
+Some of our development work lives in separate repositories and organisations:
+
+- **[Nabu Code](https://github.com/9mtm/nabu-code)** — Editor source and runtime packaging for Girru’s Code app.
+- **[WCAG Checker](https://github.com/9mtm/WCAG-Checker)** — A project for checking website and PDF accessibility.
+- **[Flowxtra](https://github.com/Flowxtra)** — Explore [career-agent](https://github.com/Flowxtra/career-agent) and related recruiting and career tools.
+
+## Meet the developer
+
+**[Mohamed Alarade](https://github.com/9mtm)** · Full-stack & AI agent developer · Vienna, Austria.
+
+Working with TypeScript, Python, React, Node.js, PHP/Laravel, SQL, Docker, and Linux.
+
+[GitHub](https://github.com/9mtm) · [LinkedIn](https://linkedin.com/in/9mtm) · [m.alarade@dpro.at](mailto:m.alarade@dpro.at)
 
 ## Contribute
 
