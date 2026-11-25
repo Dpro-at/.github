@@ -4,7 +4,8 @@
 
 # Dpro GmbH
 
-**Software & AI development from Vienna, Austria.**
+**Software & AI development 
+Vienna, Austria.**
 
 We build custom software for businesses and create tools for people working with AI.
 
