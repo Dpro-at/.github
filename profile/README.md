@@ -9,7 +9,7 @@ Vienna, Austria.**
 
 We build custom software for businesses and create tools for people working with AI.
 
-[Website](https://dpro.at/en/) · [Our projects](https://dpro.at/en/portfolio/) · [Girru Store](https://github.com/Dpro-at/girru-store) · [Work with us](https://dpro.at/en/contact/)
+[Website](https://dpro.at/en/) · [Our projects](https://dpro.at/en/portfolio/) · [Girru Store](https://github.com/Dpro-at/girru-store)
 
 </div>
 
